@@ -17,7 +17,7 @@ document.querySelector('#app').innerHTML = `
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-      Click on the Vite logo to learn more
+      Adam here! I ran all the commands in the tutorial, it's bad and outdated.
     </p>
   </div>
 `
