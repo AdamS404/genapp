@@ -1,7 +1,8 @@
-import './style.css'
+import "./index.css"
 import javascriptLogo from './javascript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.js'
+import { Authenticator } from "@aws-amplify/ui-react"
 
 document.querySelector('#app').innerHTML = `
   <div>
